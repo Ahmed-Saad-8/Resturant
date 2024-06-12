@@ -1,0 +1,7 @@
+@import url("style/header.css");
+@import url("style/hero.css");
+
+:root{
+    --primary-color: #b1454a;
+    --secondary-color: #121212;
+}
